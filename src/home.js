@@ -8,7 +8,7 @@ const Home = () => {
         <div className="home">
             <h2>Homepage</h2>
             <button onClick={handleclik}>click me</button>
-            <button onClick={()=>{handleclick("tilewa")}}>click</button>
+            <button onClick={()=>{handleclick("kachi")}}>click</button>
         </div>
      );
 }
